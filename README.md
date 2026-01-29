@@ -1,8 +1,8 @@
 ### Oi, eu sou o bakudas.. 👋
-ux | arte | design | games | dados | conhecimento
+game | ux | art | design | dev | ai | data | knowledge
 
 Atualmente:
-- Assessoria, Design Estratégico e Ciência de Dados → [DGC/MPRJ](https://mprj.mp.br/)
+- Inovação Tecnológica, Design Estratégico e Ciência de Dados → [SGMTI/MPRJ](https://mprj.mp.br/)
 - Dev, Tech Art, Produção e Design de Jogos → [Vaca Roxa](http://vacaroxa.com)
 
 ### Ferramentas e Tecnologias
